@@ -1,0 +1,72 @@
+/*  * {
+  font-family: Calibri;
+}  */
+
+h1 {
+  color: red;
+  background-color: #6de3cb;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.pink {
+  color: pink;
+}
+
+/* h1, h2 {
+  color: white;
+  background-color: #6de3cb;
+  padding: 20px;
+} */ 
+
+/* h1, h2 {
+  color: white;
+  background-color: #6de3cb;
+  padding: 20%;
+} */ 
+
+
+/* h1, h2 {
+  color: white;
+  background-color: #6de3cb;
+  padding: 20%;
+  border: 5px solid black;
+  margin: 50px;
+  width: 100px;
+  height: 500px;
+} */ 
+
+/* h2 {
+  font-size: 15px;
+  text-shadow: 5px 5px #558abb;
+} */ 
+
+/* html {
+    font-family: cursive;
+} */
+
+/* * {
+    font-family: Comic Sans MS;
+} */
+
+/* když zadám * na začátku příkazu za CSS, tak to použiji pro celou stránku, např. s * {font family .. atd. */
+
+/* níže nedokončeno */
+ 
+/* h2 {
+  font-size: 15px;
+  border: 5px solid black;
+  border-width: 10px;
+  border-style: ;
+  border-color: ;
+} */ 
