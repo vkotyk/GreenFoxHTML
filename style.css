@@ -1,6 +1,6 @@
-/*  * {
+* {
   font-family: Calibri;
-}  */
+}
 
 h1 {
   color: red;
@@ -61,12 +61,16 @@ h1 {
 
 /* když zadám * na začátku příkazu za CSS, tak to použiji pro celou stránku, např. s * {font family .. atd. */
 
-/* níže nedokončeno */
- 
-/* h2 {
+/* pokud bych chtěl použít externí font, tak musím do head v html přidat embeddovaný odkaz na daný font a pak do CSS propsat název toho vydefinovaného písma */
+
+/* tzv. short hand properties */
+
+h2 {
   font-size: 15px;
-  border: 5px solid black;
-  border-width: 10px;
-  border-style: ;
-  border-color: ;
-} */ 
+  border: 2px solid black;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: black;
+}
+
+
